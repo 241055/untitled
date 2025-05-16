@@ -1,0 +1,2 @@
+public class kadai1 {
+}
